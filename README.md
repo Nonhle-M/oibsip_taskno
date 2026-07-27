@@ -1,15 +1,17 @@
-# Python BMI Calculator
+# Random Password Generator
 
 ## Overview
 
-This project is a simple Body Mass Index (BMI) calculator built using Python. It was created as part of my journey learning Python programming and demonstrates the use of user input, variables, arithmetic operations, conditional statements, and basic program logic.
+This project is a Python application that generates secure random passwords based on user-defined criteria. It was developed to practise Python programming concepts such as randomisation, string manipulation, loops, and user interaction.
 
 ## Features
 
-* Accepts user height and weight as input
-* Calculates Body Mass Index (BMI)
-* Classifies BMI into standard weight categories
-* Displays results in an easy-to-read format
+* Generates random passwords
+* Allows user-defined password length
+* Includes uppercase letters
+* Includes lowercase letters
+* Includes numbers
+* Includes special characters
 
 ## Technologies Used
 
@@ -18,25 +20,26 @@ This project is a simple Body Mass Index (BMI) calculator built using Python. It
 
 ## Learning Outcomes
 
-Through this project, I strengthened my understanding of:
+This project helped me improve my understanding of:
 
-* Python syntax
-* Variables and data types
+* Python functions
+* Loops
+* Lists
+* String manipulation
+* Random module
 * User input handling
-* Mathematical calculations
-* Conditional statements (`if`, `elif`, `else`)
-* Writing simple, structured programs
 
 ## Future Improvements
 
-* Add input validation
-* Build a graphical user interface (GUI)
-* Save BMI calculations to a file
-* Generate personalised health recommendations
+* Add password strength analysis
+* Create a graphical interface
+* Allow users to customise character sets
+* Copy generated passwords directly to the clipboard
 
 ## Author
 
 **Nonhle Mdlalose**
 
 BSc Biological Sciences 
+ 
 
