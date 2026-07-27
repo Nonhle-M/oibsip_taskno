@@ -38,5 +38,5 @@ Through this project, I strengthened my understanding of:
 
 **Nonhle Mdlalose**
 
-Aspiring Data Analyst | BSc Biological Sciences 
+BSc Biological Sciences 
 
