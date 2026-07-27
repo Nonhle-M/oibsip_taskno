@@ -1,4 +1,4 @@
-# password generator
+# random password generator
 import random 
 import string
 character_set = string.ascii_letters + string.digits + string.punctuation 
